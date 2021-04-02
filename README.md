@@ -1,6 +1,6 @@
-# trying_cubit
+# trying_bloc
 
-trying cubit
+2/4/21 - cubit
 
 ## Getting Started
 
