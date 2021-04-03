@@ -1,6 +1,7 @@
 # trying_bloc
 
-2/4/21 - cubit
+2/4/21 - cubit , blocprovider
+3/4/21 - bloclistner
 
 ## Getting Started
 
